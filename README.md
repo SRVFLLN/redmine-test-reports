@@ -1,1 +1,0 @@
-# redmine-test-reports
